@@ -1,0 +1,7 @@
+attendance_rate,hours_study_per_week,prior_score,tutoring_flag,school_id,final_score,at_risk
+0.85,3,70,1,SCH_01,75,0
+0.60,1,45,0,SCH_02,50,1
+0.90,4,80,0,SCH_03,85,0
+0.70,2,55,1,SCH_01,60,1
+0.95,5,88,0,SCH_04,90,0
+
