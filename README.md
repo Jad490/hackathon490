@@ -30,3 +30,5 @@ cd heart-disease-prediction-app
 ##  Online Deployment
 The app is publicly accessible here: [Heart Disease Prediction App]([https://hackathon490.streamlit.app](https://hackathon490-3loyb2d5ujyyb9webwczza.streamlit.app))
 
+
+ALSO APP LINK IN SUBMISSION ..
