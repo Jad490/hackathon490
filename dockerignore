@@ -1,0 +1,13 @@
+# --- .dockerignore ---
+.git
+.gitignore
+__pycache__/
+*.py[cod]
+*.log
+*.DS_Store
+.venv/
+.env
+.env.*
+.ipynb_checkpoints/
+# Cache/data you don't want baked into images (keep heart.csv here because the app needs it)
+# data/
