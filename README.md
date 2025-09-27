@@ -23,5 +23,5 @@ User Input → Data Encoding → Random Forest Model → Prediction → Web UI
 ##How to Run Locally
  Clone the Repository  
 
-git clone   
+git clone https://github.com/Jad490/hackathon490
 cd heart-disease-prediction-app
