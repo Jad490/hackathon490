@@ -26,3 +26,7 @@ User Input → Data Encoding → Random Forest Model → Prediction → Web UI
 git clone https://github.com/Jad490/hackathon490
 
 cd heart-disease-prediction-app
+
+##  Online Deployment
+The app is publicly accessible here: [Heart Disease Prediction App]([https://hackathon490.streamlit.app](https://hackathon490-3loyb2d5ujyyb9webwczza.streamlit.app))
+
